@@ -1,2 +1,2 @@
 # login_with_firebase
-hey i have a visually appealing UI that have three pages login signup and home page and it is connected with Firebase for seamless authentication
+This Flutter application demonstrates a clean and user-friendly implementation of a login system using Firebase Authentication. It includes essential features like email/password login, signup, and secure user session management. The app is designed with a sleek UI and seamless navigation for a smooth user experience.
